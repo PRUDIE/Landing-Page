@@ -11,7 +11,9 @@ Hi, I'm **Prudie** — a passionate **Security Engineer** focused on **Offensive
 
 - Web Application Security  
 - Cloud Security  
-- Bug Bounty 
+- Bug Bounty
+- Artificial Intelligence
+- Data driven cybersecurity
 
 ---
 
