@@ -20,7 +20,8 @@ Hi, I'm **Prudie** — a passionate **Security Engineer** focused on **Offensive
 ## 🛠️ Currently Working On
 
 - Building a personal security toolkit  
-- Blogging my journey into cybersecurity  
+- Blogging my journey into cybersecurity
+- Upskilling https://www.credly.com/badges/930e1fdd-5a20-469d-b52c-99e1b67db0ed/public_url
 
 ---
 
