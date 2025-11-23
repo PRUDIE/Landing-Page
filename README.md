@@ -27,7 +27,7 @@ Hi, I'm **Prudie** — a passionate **Security Engineer** focused on **Offensive
 
 ## 🌟 Featured Repositories
 
-> _Coming soon..._
+> https://github.com/PRUDIE/jwt_inspector
 
 ---
 
